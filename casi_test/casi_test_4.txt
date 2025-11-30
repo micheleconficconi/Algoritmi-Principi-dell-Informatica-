@@ -1,0 +1,181 @@
+20 1000
+aggiungi_ricetta jCXrDb4qRN jjZ2VHJmk5TT2Td2B 22 AM5zV8vIUs4fKFEk 38 y8eFqO1 69 O080C8 5 y8eFJ2u 4 6X_ibFbKQR 16 H6JKvpflIEY2XqNQ 10 6X_iblf 7 AM5zVCBlRJ1cCgOK40zG 12 6X_ibjwWNNHIt054NZAV 3
+aggiungi_ricetta UuIU1yZ7 AM5zV8vIUs4fKFEk 12 jjZ2VHJmk5TT2Td2B 44 OOiSGRFBh5pdl 20 4xXwj5sVgKb6HSQ8v 25
+rifornimento 6X_ibFbKQR 120 180
+ordine jCXrDb4qRN 1
+ordine UuIU1yZ7 1
+aggiungi_ricetta sMT8lY3zJGcI_VGnQB19 y8eFJ2u 14 6X_ibjwWNNHIt054NZAV 134
+ordine UuIU1yZ7 1
+ordine sMT8lY3zJGcI_VGnQB19 1
+ordine UuIU1yZ7 1
+ordine UuIU1yZ7 1
+aggiungi_ricetta UuIUZohHO80zp5V2v jjZ2VHJmk5TT2Td2B 4 i5YGVwC 7 jjZ2BKUzKU3axn 5 6X_ibjwWNNHIt054NZAV 9 AM5zVCBlRJ1cCgOK40zG 12 y8eFqO1 9 O080C8 70 OOiSGRFBh5pdl 15 AM5zV8vIUs4fKFEk 15 4xXwj5sVgKb6HSQ8v 8
+aggiungi_ricetta sMT8lY3zJGcI_VGnQB19 i5YGVwC 1 y8eFJ2u 5 O080C8 9 y8eFqO1 3 OOiSGRFBh5pdl 4 6X_iblf 2 H6JKvpflIEY2XqNQ 10
+ordine UuIU1yZ7 1
+aggiungi_ricetta 5hIxEiJDjuuviHy9 4xXwj5sVgKb6HSQ8v 10 6X_ibFbKQR 14 y8eFJ2u 29 6X_iblf 3 OOiSGRFBh5pdl 4 H6JKvpflIEY2XqNQ 32
+aggiungi_ricetta 6X_ib jjZ2VHJmk5TT2Td2B 44 AM5zVCBlRJ1cCgOK40zG 6 y8eFJ2u 73 H6JKvpflIEY2XqNQ 26 O080C8 4 4xXwj5sVgKb6HSQ8v 35 6X_ibjwWNNHIt054NZAV 46 6X_ibFbKQR 34
+aggiungi_ricetta sMT8lkj jjZ2BKUzKU3axn 29 AM5zV8vIUs4fKFEk 80 y8eFqO1 21 H6JKvpflIEY2XqNQ 5 jjZ2VHJmk5TT2Td2B 26 6X_iblf 4 i5YGVwC 21 O080C8 5 6X_ibjwWNNHIt054NZAV 9
+ordine UuIU1yZ7 1
+ordine 6X_ib 1
+ordine jCXrDb4qRN 1
+ordine 5hIxEiJDjuuviHy9 1
+ordine sMT8lY3zJGcI_VGnQB19 1
+ordine sMT8lkj 1
+aggiungi_ricetta jCXrDQN y8eFqO1 7 H6JKvpflIEY2XqNQ 8 y8eFJ2u 5 6X_ibFbKQR 6 OOiSGRFBh5pdl 4 6X_ibjwWNNHIt054NZAV 15 O080C8 22 AM5zVCBlRJ1cCgOK40zG 8 6X_iblf 1
+ordine 6X_ib 1
+rimuovi_ricetta 5hIxEiJDjuuviHy9
+ordine 6X_ib 1
+ordine 5hIxEiJDjuuviHy9 1
+aggiungi_ricetta O080CRFZC 6X_ibjwWNNHIt054NZAV 24 H6JKvpflIEY2XqNQ 5 AM5zVCBlRJ1cCgOK40zG 10 6X_ibFbKQR 2
+ordine O080CRFZC 1
+ordine UuIU1yZ7 1
+ordine sMT8lY3zJGcI_VGnQB19 1
+rimuovi_ricetta 5hIxEiJDjuuviHy9
+ordine jCXrDb4qRN 1
+ordine UuIU1yZ7 1
+ordine jCXrDQN 1
+ordine 6X_ib 1
+ordine 6X_ib 1
+aggiungi_ricetta UuIUmXI61280 O080C8 4 6X_ibFbKQR 6 4xXwj5sVgKb6HSQ8v 8 jjZ2VHJmk5TT2Td2B 2 i5YGVwC 1 y8eFJ2u 1
+ordine UuIUZohHO80zp5V2v 1
+ordine UuIU1yZ7 1
+ordine UuIUmXI61280 1
+ordine jCXrDQN 1
+aggiungi_ricetta sMT8lGt 6X_ibjwWNNHIt054NZAV 35 H6JKvpflIEY2XqNQ 7 y8eFJ2u 23 O080C8 9 4xXwj5sVgKb6HSQ8v 19 6X_iblf 76 y8eFqO1 19 OOiSGRFBh5pdl 20 AM5zVCBlRJ1cCgOK40zG 14
+ordine sMT8lGt 1
+ordine sMT8lkj 1
+ordine UuIUZohHO80zp5V2v 1
+ordine O080CRFZC 1
+ordine jCXrDQN 1
+rimuovi_ricetta UuIU1yZ7
+ordine UuIU1yZ7 1
+ordine H6JKvwc5M6nAwr 5
+aggiungi_ricetta 4xXwjy1724Va1i O080C8 2 i5YGVwC 5 jjZ2BKUzKU3axn 1 6X_ibFbKQR 4 y8eFJ2u 5 y8eFqO1 2
+rimuovi_ricetta 5hIxEiJDjuuviHy9
+ordine eB96tLwhJueLUDQOit 4
+ordine sMT8lY3zJGcI_VGnQB19 1
+ordine sMT8lkj 1
+ordine O080CVwOqTRYUDvMs8 5
+aggiungi_ricetta 3oCPALzZEM O080C8 121 jjZ2BKUzKU3axn 32 y8eFqO1 67
+ordine 3oCPALzZEM 1
+ordine UuIUZohHO80zp5V2v 1
+ordine jCXrDb4qRN 1
+ordine sMT8lY3zJGcI_VGnQB19 1
+ordine UuIUZohHO80zp5V2v 1
+aggiungi_ricetta jCXrDkPE1VHD8CD O080C8 35 jjZ2BKUzKU3axn 33 4xXwj5sVgKb6HSQ8v 88 6X_iblf 9 AM5zV8vIUs4fKFEk 32
+aggiungi_ricetta eB96tP4kh0AQCM1Kzww 6X_iblf 31 y8eFqO1 2 jjZ2BKUzKU3axn 9 y8eFJ2u 43 6X_ibFbKQR 16 O080C8 20 i5YGVwC 10 AM5zVCBlRJ1cCgOK40zG 15 4xXwj5sVgKb6HSQ8v 16
+ordine sMT8lGt 1
+rifornimento i5YGVwC 172 168 jjZ2VHJmk5TT2Td2B 1638 172 H6JKvpflIEY2XqNQ 569 139 6X_iblf 387 113 y8eFqO1 885 125 OOiSGRFBh5pdl 570 70 O080C8 1015 171 AM5zV8vIUs4fKFEk 1055 93 y8eFJ2u 1052 159 jjZ2BKUzKU3axn 259 156 AM5zVCBlRJ1cCgOK40zG 375 122 6X_ibFbKQR 542 80 6X_ibjwWNNHIt054NZAV 2006 78 4xXwj5sVgKb6HSQ8v 1033 94
+aggiungi_ricetta i5YGVg9sksXPl O080C8 41 6X_iblf 4 y8eFJ2u 11 AM5zV8vIUs4fKFEk 2 y8eFqO1 11 jjZ2VHJmk5TT2Td2B 8 6X_ibFbKQR 21 i5YGVwC 6 4xXwj5sVgKb6HSQ8v 27 6X_ibjwWNNHIt054NZAV 3
+rimuovi_ricetta jCXrDkPE1VHD8CD
+aggiungi_ricetta i5YGVG y8eFJ2u 13 O080C8 12 jjZ2VHJmk5TT2Td2B 3 6X_ibjwWNNHIt054NZAV 4
+aggiungi_ricetta i5YGVjrk AM5zV8vIUs4fKFEk 2 H6JKvpflIEY2XqNQ 33 y8eFJ2u 7 6X_ibjwWNNHIt054NZAV 15
+aggiungi_ricetta sMT8lUoV9 AM5zV8vIUs4fKFEk 18 6X_ibFbKQR 1 y8eFJ2u 2
+ordine sMT8lGt 1
+aggiungi_ricetta jjZ2gR2r3Kx5f7kKKsH O080C8 33 y8eFJ2u 115 y8eFqO1 3 jjZ2VHJmk5TT2Td2B 32 6X_ibFbKQR 33 6X_iblf 32
+rimuovi_ricetta 3oCPALzZEM
+ordine i5YGVg9sksXPl 1
+rimuovi_ricetta i5YGVG
+ordine eB96tP4kh0AQCM1Kzww 1
+aggiungi_ricetta 3oCPqRLQHzA y8eFqO1 1 jjZ2VHJmk5TT2Td2B 2 OOiSGRFBh5pdl 19 i5YGVwC 13 y8eFJ2u 136 6X_ibFbKQR 23 H6JKvpflIEY2XqNQ 33 4xXwj5sVgKb6HSQ8v 7
+ordine jCXrDQN 1
+ordine 4xXwjy1724Va1i 1
+ordine jjZ2gR2r3Kx5f7kKKsH 1
+ordine 3oCPqRLQHzA 1
+aggiungi_ricetta jjZ2ndDU4OT8FF y8eFJ2u 32 6X_iblf 120 6X_ibFbKQR 21 O080C8 75
+rifornimento jjZ2BKUzKU3axn 17 121 H6JKvpflIEY2XqNQ 91 119 6X_iblf 277 143 AM5zV8vIUs4fKFEk 3 151 y8eFJ2u 622 127 O080C8 234 121 i5YGVwC 62 87 4xXwj5sVgKb6HSQ8v 134 117 y8eFqO1 76 131 OOiSGRFBh5pdl 75 119 AM5zVCBlRJ1cCgOK40zG 69 103 jjZ2VHJmk5TT2Td2B 80 176 6X_ibjwWNNHIt054NZAV 92 168 6X_ibFbKQR 192 153
+ordine sMT8lkj 1
+rimuovi_ricetta i5YGVjrk
+ordine jCXrDb4qRN 1
+ordine jjZ2ndDU4OT8FF 1
+ordine i5YGVG 1
+aggiungi_ricetta H6JKvbK3fnO jjZ2BKUzKU3axn 73 H6JKvpflIEY2XqNQ 5 AM5zV8vIUs4fKFEk 4 6X_ibFbKQR 58
+aggiungi_ricetta 3oCPALzZEM 6X_ibFbKQR 21 y8eFJ2u 24 O080C8 60 AM5zVCBlRJ1cCgOK40zG 1 4xXwj5sVgKb6HSQ8v 9 AM5zV8vIUs4fKFEk 36 jjZ2BKUzKU3axn 16 y8eFqO1 55 i5YGVwC 6
+ordine i5YGVG 1
+ordine jjZ2gR2r3Kx5f7kKKsH 1
+ordine 5hIxEiJDjuuviHy9 1
+ordine 6X_ib 1
+aggiungi_ricetta sLky_ y8eFJ2u 7 4xXwj5sVgKb6HSQ8v 12 6X_ibjwWNNHIt054NZAV 14 y8eFqO1 6 6X_iblf 43 AM5zVCBlRJ1cCgOK40zG 5 OOiSGRFBh5pdl 22 jjZ2VHJmk5TT2Td2B 8
+aggiungi_ricetta y8eFI_jYZEOwvITHRA H6JKvpflIEY2XqNQ 1 6X_ibjwWNNHIt054NZAV 1 4xXwj5sVgKb6HSQ8v 1 O080C8 1 6X_ibFbKQR 1 y8eFqO1 1
+aggiungi_ricetta ik1ixgg6nP jjZ2BKUzKU3axn 35 AM5zV8vIUs4fKFEk 51
+aggiungi_ricetta AM5zVBi8wHNNu7zK OOiSGRFBh5pdl 30 H6JKvpflIEY2XqNQ 19 AM5zVCBlRJ1cCgOK40zG 15
+aggiungi_ricetta OOiSGv7g4R1A H6JKvpflIEY2XqNQ 109 y8eFJ2u 93
+ordine OOiSGv7g4R1A 1
+ordine i5YGVg9sksXPl 1
+ordine jjZ2ndDU4OT8FF 1
+aggiungi_ricetta 3oCP_FwSQ5UqLp8XXG jjZ2VHJmk5TT2Td2B 20 jjZ2BKUzKU3axn 49 AM5zVCBlRJ1cCgOK40zG 48 y8eFJ2u 28 y8eFqO1 23 H6JKvpflIEY2XqNQ 17 6X_ibFbKQR 29
+aggiungi_ricetta 4xXwjBGQqUVpHnGpm y8eFqO1 12 OOiSGRFBh5pdl 22 AM5zVCBlRJ1cCgOK40zG 3 6X_ibFbKQR 13 i5YGVwC 8
+ordine i5YGVG 1
+ordine H6JKvbK3fnO 1
+ordine O080CxtT4TXezu3F 3
+aggiungi_ricetta 4xXwjk 6X_iblf 25 OOiSGRFBh5pdl 40 i5YGVwC 169 AM5zV8vIUs4fKFEk 23
+aggiungi_ricetta sMT8loippUCu_dj H6JKvpflIEY2XqNQ 73 6X_ibjwWNNHIt054NZAV 9 6X_iblf 52 y8eFqO1 75
+ordine jjZ2ndDU4OT8FF 1
+ordine 3oCPqRLQHzA 1
+ordine 6X_ibK1K5kmxOzoJpE 2
+aggiungi_ricetta ik1ix AM5zV8vIUs4fKFEk 87 6X_ibjwWNNHIt054NZAV 4 4xXwj5sVgKb6HSQ8v 6 6X_ibFbKQR 39
+ordine jCXrDb4qRN 1
+aggiungi_ricetta GqP96UKIOjtc OOiSGRFBh5pdl 14 i5YGVwC 10 AM5zV8vIUs4fKFEk 33 6X_ibjwWNNHIt054NZAV 10 4xXwj5sVgKb6HSQ8v 16 jjZ2VHJmk5TT2Td2B 22 y8eFJ2u 18
+ordine i5YGVjrk 1
+ordine OOiSGv7g4R1A 1
+aggiungi_ricetta 3oCPD7_9VT 4xXwj5sVgKb6HSQ8v 4 y8eFqO1 92 H6JKvpflIEY2XqNQ 10 6X_iblf 59 i5YGVwC 16 y8eFJ2u 6 OOiSGRFBh5pdl 5 AM5zVCBlRJ1cCgOK40zG 38
+aggiungi_ricetta 6X_ib1ZQ O080C8 150 y8eFJ2u 29
+aggiungi_ricetta H6JKv1SFygGaiAOMnG7z 4xXwj5sVgKb6HSQ8v 9 6X_iblf 41 O080C8 19 jjZ2BKUzKU3axn 15
+rifornimento OOiSGRFBh5pdl 40 163 jjZ2BKUzKU3axn 190 131 H6JKvpflIEY2XqNQ 713 177 6X_iblf 805 176 y8eFqO1 306 174 jjZ2VHJmk5TT2Td2B 317 132 i5YGVwC 74 155 O080C8 659 178 6X_ibFbKQR 520 125 6X_ibjwWNNHIt054NZAV 158 158 AM5zV8vIUs4fKFEk 300 151 y8eFJ2u 1288 129 AM5zVCBlRJ1cCgOK40zG 56 150 4xXwj5sVgKb6HSQ8v 154 128
+ordine 3oCPD7_9VT 1
+aggiungi_ricetta 5hIxEiJDjuuviHy9 6X_ibjwWNNHIt054NZAV 4 4xXwj5sVgKb6HSQ8v 6 y8eFJ2u 3 y8eFqO1 3 AM5zVCBlRJ1cCgOK40zG 4 6X_ibFbKQR 33 O080C8 39
+ordine jCXrDkPE1VHD8CD 1
+aggiungi_ricetta GqP9z0DgLvVBz 6X_ibFbKQR 7 y8eFqO1 2 H6JKvpflIEY2XqNQ 17 i5YGVwC 85 OOiSGRFBh5pdl 5 jjZ2VHJmk5TT2Td2B 2 4xXwj5sVgKb6HSQ8v 47 y8eFJ2u 8
+aggiungi_ricetta 0MfC jjZ2VHJmk5TT2Td2B 11 6X_ibjwWNNHIt054NZAV 3 O080C8 10 AM5zVCBlRJ1cCgOK40zG 8 OOiSGRFBh5pdl 17 y8eFJ2u 5 H6JKvpflIEY2XqNQ 22 y8eFqO1 6
+ordine i5YGVg9sksXPl 1
+rifornimento 4xXwj5sVgKb6HSQ8v 234 176 y8eFqO1 182 157 OOiSGRFBh5pdl 8 170 H6JKvpflIEY2XqNQ 19 153 6X_iblf 138 143 i5YGVwC 41 142 O080C8 141 168 AM5zV8vIUs4fKFEk 62 170 y8eFJ2u 31 148 AM5zVCBlRJ1cCgOK40zG 72 131 jjZ2BKUzKU3axn 61 150 6X_ibjwWNNHIt054NZAV 5 149 6X_ibFbKQR 39 174 jjZ2VHJmk5TT2Td2B 15 144
+rifornimento y8eFqO1 120 180
+rifornimento 6X_ibFbKQR 120 180
+ordine ik1ixgg6nP 1
+ordine GqP9z0DgLvVBz 1
+aggiungi_ricetta y8eFYGMpsbD3C_ y8eFJ2u 7 AM5zVCBlRJ1cCgOK40zG 6 jjZ2VHJmk5TT2Td2B 15 4xXwj5sVgKb6HSQ8v 4 O080C8 2 6X_ibFbKQR 28
+ordine UuIU1yZ7 1
+ordine sMT8lGt 1
+ordine jCXrDb4qRN 1
+ordine GqP96UKIOjtc 1
+ordine GqP9z0DgLvVBz 1
+ordine PiDoKg_WWgC8Y 1
+rimuovi_ricetta H6JKvbK3fnO
+ordine UuIUZohHO80zp5V2v 1
+aggiungi_ricetta i5YGVtVFDIQN7kU 6X_ibFbKQR 1 AM5zV8vIUs4fKFEk 8 OOiSGRFBh5pdl 2 jjZ2BKUzKU3axn 5 H6JKvpflIEY2XqNQ 5 O080C8 2 y8eFqO1 4 6X_iblf 6
+aggiungi_ricetta y8eF7L43WAryVguc64e H6JKvpflIEY2XqNQ 19 6X_ibFbKQR 2 OOiSGRFBh5pdl 18 y8eFqO1 74 jjZ2BKUzKU3axn 45 i5YGVwC 6 O080C8 44 AM5zVCBlRJ1cCgOK40zG 12 6X_iblf 24
+ordine 0MfC 1
+ordine OOiSGv7g4R1A 1
+ordine 5hIxEiJDjuuviHy9 1
+ordine jCXrDb4qRN 1
+ordine UuIUZohHO80zp5V2v 1
+aggiungi_ricetta OOiSGidwnkTX3wNnGMN y8eFqO1 5 jjZ2VHJmk5TT2Td2B 8 H6JKvpflIEY2XqNQ 6 6X_iblf 8
+ordine OOiSGv7g4R1A 1
+aggiungi_ricetta sLkymTijQCGYwg 6X_ibFbKQR 8 6X_iblf 2 H6JKvpflIEY2XqNQ 5 6X_ibjwWNNHIt054NZAV 16 jjZ2VHJmk5TT2Td2B 5 AM5zVCBlRJ1cCgOK40zG 4 AM5zV8vIUs4fKFEk 7 y8eFqO1 4 O080C8 10
+aggiungi_ricetta 6X_ibUxHa0EGcu y8eFqO1 5 6X_iblf 48 AM5zV8vIUs4fKFEk 24 i5YGVwC 6 O080C8 22 jjZ2VHJmk5TT2Td2B 31 6X_ibjwWNNHIt054NZAV 28 AM5zVCBlRJ1cCgOK40zG 9 jjZ2BKUzKU3axn 38 4xXwj5sVgKb6HSQ8v 37
+aggiungi_ricetta 3oCPCcDa8a y8eFqO1 39 i5YGVwC 27 OOiSGRFBh5pdl 26
+aggiungi_ricetta jCXrDIN 6X_ibFbKQR 1 AM5zV8vIUs4fKFEk 1 O080C8 1 AM5zVCBlRJ1cCgOK40zG 1
+ordine ik1ixgg6nP 1
+aggiungi_ricetta 5hIxH AM5zV8vIUs4fKFEk 6 AM5zVCBlRJ1cCgOK40zG 34 y8eFqO1 13 OOiSGRFBh5pdl 24 H6JKvpflIEY2XqNQ 25 y8eFJ2u 25 6X_ibjwWNNHIt054NZAV 40 O080C8 7 6X_ibFbKQR 31 6X_iblf 15
+ordine y8eFYGMpsbD3C_ 1
+rifornimento AM5zVCBlRJ1cCgOK40zG 142 179 jjZ2BKUzKU3axn 149 166 H6JKvpflIEY2XqNQ 639 173 6X_iblf 179 168 y8eFqO1 325 176 OOiSGRFBh5pdl 202 179 i5YGVwC 365 174 O080C8 317 165 jjZ2VHJmk5TT2Td2B 284 172 4xXwj5sVgKb6HSQ8v 360 175 AM5zV8vIUs4fKFEk 466 165 y8eFJ2u 535 172 6X_ibFbKQR 164 178 6X_ibjwWNNHIt054NZAV 124 176
+ordine jCXrDQN 1
+ordine i5YGVG 1
+rifornimento jjZ2VHJmk5TT2Td2B 5 169 AM5zVCBlRJ1cCgOK40zG 15 162 O080C8 63 164 6X_ibjwWNNHIt054NZAV 33 162 6X_ibFbKQR 11 169 y8eFJ2u 33 162 6X_iblf 1 178 H6JKvpflIEY2XqNQ 15 174 OOiSGRFBh5pdl 7 175 y8eFqO1 12 179
+ordine sMT8lY3zJGcI_VGnQB19 1
+aggiungi_ricetta wNoU5PoWOw y8eFqO1 4 i5YGVwC 6 O080C8 38 jjZ2BKUzKU3axn 86
+ordine 4xXwjk 1
+ordine sMT8lUoV9 1
+ordine y8eFYGMpsbD3C_ 1
+aggiungi_ricetta PzgpLt4OFig y8eFJ2u 28 4xXwj5sVgKb6HSQ8v 37 y8eFqO1 14 6X_iblf 60 6X_ibjwWNNHIt054NZAV 9 OOiSGRFBh5pdl 33 O080C8 5 AM5zVCBlRJ1cCgOK40zG 25
+ordine jCXrDIN 8
+aggiungi_ricetta ik1ix AM5zVCBlRJ1cCgOK40zG 53 y8eFqO1 22 jjZ2BKUzKU3axn 24 AM5zV8vIUs4fKFEk 62
+ordine jjZ2ndDU4OT8FF 1
+rifornimento 4xXwj5sVgKb6HSQ8v 7 172 jjZ2VHJmk5TT2Td2B 29 178 AM5zVCBlRJ1cCgOK40zG 26 173 6X_ibFbKQR 107 172 O080C8 157 178 i5YGVwC 319 175 OOiSGRFBh5pdl 71 174 AM5zV8vIUs4fKFEk 89 173 6X_iblf 280 175 6X_ibjwWNNHIt054NZAV 236 175 y8eFJ2u 99 178
+ordine 5hIxH 1
+rimuovi_ricetta jCXrDIN
+ordine i5YGVg9sksXPl 1
+ordine GqP9z0DgLvVBz 1
+ordine 6X_ib1ZQ 1
+ordine y8eF7L43WAryVguc64e 1
+ordine jCXrDb4qRN 1

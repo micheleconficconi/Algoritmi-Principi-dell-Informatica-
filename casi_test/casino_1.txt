@@ -1,0 +1,202 @@
+20 1000000000
+aggiungi_ricetta R1sHSjaN7409HULkW_5iL t7D7FECZyk35kafGV7uTUZMHgux 10 TltfZVeOoTSo1QzI1rZl 23
+aggiungi_ricetta R1sHSjaN7409HULkW_5iL TltfZVeOoTSo1QzI1rZl 8 Lwmxfm5jiGMJOG 11 dV66drdbN9vISaCa17yZZlpY 23 TltfZVeOdPfd 3 LwmxfmrCTXIgVUyPbsjx2 12 TltfZVeOU0LaOj1NjJ5V7qY3qUW 7
+ordine R1sHSjaN7409HULkW_5iL 3
+ordine R1sHSjaN7409HULkW_5iL 11
+ordine R1sHSjaN7409HULkW_5iL 3
+ordine R1sHSjaN7409HULkW_5iL 24
+ordine R1sHSjaN7409HULkW_5iL 23
+rifornimento t7D7FECZyk35kafGV7uTUZMHgux 1242 255 TltfZVeOoTSo1QzI1rZl 2601 238
+ordine R1sHSjaN7409HULkW_5iL 19
+ordine R1sHSjaN7409HULkW_5iL 10
+ordine R1sHSjaN7409HULkW_5iL 23
+rifornimento t7D7FECZyk35kafGV7uTUZMHgux 1009 270 TltfZVeOoTSo1QzI1rZl 2113 249
+ordine R1sHSjaN7409HULkW_5iL 6
+ordine R1sHSjaN7409HULkW_5iL 16
+ordine R1sHSjaN7409HULkW_5iL 22
+ordine R1sHSjaN7409HULkW_5iL 4
+aggiungi_ricetta LwmxfmW t7D7FECZyk35kafGV7uTUZMHgux 7 TltfZVeOdPfd 7 Lwmxfm_3W9W1hnSnHpJc 8 LwmxfmXXwlxKYvu8EYD 1 LwmxfmrCTXIgVUyPbsjx2 9 Lwmxfm5jiGMJOG 2 TltfZVeOYXG1ANEBFU 5
+ordine R1sHSjaN7409HULkW_5iL 10
+ordine R1sHSjaN7409HULkW_5iL 30
+ordine R1sHSjaN7409HULkW_5iL 26
+ordine LwmxfmW 14
+ordine LwmxfmW 7
+ordine LwmxfmW 3
+ordine R1sHSjaN7409HULkW_5iL 26
+ordine R1sHSjaN7409HULkW_5iL 12
+ordine LwmxfmW 25
+ordine LwmxfmW 3
+ordine R1sHSjaN7409HULkW_5iL 30
+ordine LwmxfmW 14
+rimuovi_ricetta LwmxfmW
+ordine R1sHSjaN7409HULkW_5iL 1
+ordine R1sHSjaN7409HULkW_5iL 30
+ordine R1sHSjaN7409HULkW_5iL 18
+ordine R1sHSjaN7409HULkW_5iL 15
+ordine R1sHSjaN7409HULkW_5iL 21
+ordine R1sHSjaN7409HULkW_5iL 28
+ordine LwmxfmW 23
+ordine R1sHSjaN7409HULkW_5iL 8
+ordine LwmxfmW 14
+ordine LwmxfmW 19
+ordine R1sHSjaN7409HULkW_5iL 8
+ordine LwmxfmW 6
+ordine R1sHSjaN7409HULkW_5iL 5
+ordine LwmxfmW 21
+ordine R1sHSjaN7409HULkW_5iL 23
+ordine R1sHSjaN7409HULkW_5iL 29
+rimuovi_ricetta LwmxfmW
+ordine LwmxfmW 17
+ordine LwmxfmW 3
+ordine LwmxfmeBUc8p3GIW3u3JLpM 3
+ordine LwmxfmW 16
+ordine LwmxfmW 25
+ordine LwmxfmW 2
+ordine LwmxfmW 14
+ordine LwmxfmW 8
+ordine R1sHSjaN7409HULkW_5iL 30
+aggiungi_ricetta R1sHSjaN78Pda LwmxfmXXwlxKYvu8EYD 2 LwmxfmrCTXIgVUyPbsjx2 4 t7D7FECZyk35kafGV7uTUZMHgux 48 Lwmxfm_3W9W1hnSnHpJc 38
+ordine R1sHSjaN7409HULkW_5iL 7
+ordine R1sHSjaN7409HULkW_5iL 25
+aggiungi_ricetta dV66drdPk LwmxfmXXwlxKYvu8EYD 17 TltfZVeOU0LaOj1NjJ5V7qY3qUW 5 dV66drdbN9vISaCa17yZZlpY 43 TltfZVeOoTSo1QzI1rZl 3 Lwmxfm_3W9W1hnSnHpJc 2
+ordine dV66drdPk 11
+ordine R1sHSjaN7409HULkW_5iL 16
+rimuovi_ricetta R1sHSjaN78Pda
+ordine R1sHSjaN78Pda 2
+ordine LwmxfmW 12
+ordine TltfZVeOuTdh0nSX 5
+ordine LwmxfmW 6
+ordine LwmxfmW 17
+ordine R1sHSjaN7409HULkW_5iL 8
+rimuovi_ricetta dV66drdPk
+ordine R1sHSjaN7409HULkW_5iL 30
+ordine R1sHSjaN7409HULkW_5iL 10
+ordine dV66drdPk 5
+ordine dV66drdPk 14
+rimuovi_ricetta dV66drdPk
+ordine dV66drdXbPIN1BoEuDaN 4
+aggiungi_ricetta Lwmxfma4Ytxf9WXR LwmxfmrCTXIgVUyPbsjx2 14 TltfZVeOYXG1ANEBFU 12 LwmxfmXXwlxKYvu8EYD 6
+ordine R1sHSjaN78Pda 6
+ordine R1sHSjaN7409HULkW_5iL 23
+ordine R1sHSjaN7409HULkW_5iL 2
+ordine LwmxfmW 4
+ordine LwmxfmW 17
+ordine dV66drdPk 7
+aggiungi_ricetta R1sHSjaN751UVLvuE TltfZVeOU0LaOj1NjJ5V7qY3qUW 1 LwmxfmXXwlxKYvu8EYD 36 t7D7FECZyk35kafGV7uTUZMHgux 27 TltfZVeOdPfd 3 Lwmxfm_3W9W1hnSnHpJc 11 LwmxfmrCTXIgVUyPbsjx2 6
+ordine R1sHSjaN751UVLvuE 4
+ordine R1sHSjaN7409HULkW_5iL 21
+rifornimento t7D7FECZyk35kafGV7uTUZMHgux 10486 265 TltfZVeOoTSo1QzI1rZl 21946 234
+ordine R1sHSjaN78Pda 3
+ordine dV66drdPk 10
+ordine Lwmxfma4Ytxf9WXR 8
+ordine LwmxfmW 19
+ordine R1sHSjaN7409HULkW_5iL 6
+rimuovi_ricetta R1sHSjaN78Pda
+ordine R1sHSjaN751UVLvuE 5
+ordine dV66drdPk 9
+ordine R1sHSjaN78Pda 2
+aggiungi_ricetta dV66drddTwFQrbifRjPvWK9jpw TltfZVeOdPfd 10 Lwmxfm5jiGMJOG 8 TltfZVeOoTSo1QzI1rZl 12 t7D7FECZyk35kafGV7uTUZMHgux 13 TltfZVeOU0LaOj1NjJ5V7qY3qUW 6
+ordine R1sHSjaN7409HULkW_5iL 23
+ordine R1sHSjaN751UVLvuE 5
+ordine Lwmxfma4Ytxf9WXR 29
+ordine Lwmxfma4Ytxf9WXR 4
+ordine R1sHSjaN751UVLvuE 1
+ordine LwmxfmW 15
+ordine R1sHSjaN751UVLvuE 6
+ordine R1sHSjaN78Pda 10
+ordine LwmxfmW 3
+ordine R1sHSjaN78Pda 1
+aggiungi_ricetta TltfZVeOF TltfZVeOdPfd 9 TltfZVeOU0LaOj1NjJ5V7qY3qUW 19 LwmxfmrCTXIgVUyPbsjx2 5
+ordine dV66drddTwFQrbifRjPvWK9jpw 1
+rifornimento LwmxfmrCTXIgVUyPbsjx2 1096 262 TltfZVeOYXG1ANEBFU 883 224 LwmxfmXXwlxKYvu8EYD 450 258
+rimuovi_ricetta LwmxfmW
+ordine TltfZVeOF 1
+ordine TltfZVeOF 27
+ordine dV66drdPk 3
+ordine Lwmxfma4Ytxf9WXR 9
+ordine R1sHSjaN78Pda 5
+ordine Lwmxfma4Ytxf9WXR 30
+ordine TltfZVeOF 13
+ordine R1sHSjaN7409HULkW_5iL 15
+ordine dV66drdPk 4
+aggiungi_ricetta LwmxfmzysVxSEQ9Mx5Yo1P LwmxfmrCTXIgVUyPbsjx2 59 TltfZVeOU0LaOj1NjJ5V7qY3qUW 12 LwmxfmXXwlxKYvu8EYD 81
+ordine R1sHSjaN7409HULkW_5iL 25
+ordine dV66drdPk 4
+ordine R1sHSjaN751UVLvuE 3
+ordine TltfZVeOF 10
+ordine dV66drddTwFQrbifRjPvWK9jpw 7
+ordine dV66drddTwFQrbifRjPvWK9jpw 12
+aggiungi_ricetta Lwmxfma4Ytxf9WXR TltfZVeOU0LaOj1NjJ5V7qY3qUW 9 t7D7FECZyk35kafGV7uTUZMHgux 43 TltfZVeOoTSo1QzI1rZl 33 TltfZVeOYXG1ANEBFU 6 TltfZVeOdPfd 12 Lwmxfm_3W9W1hnSnHpJc 39 Lwmxfm5jiGMJOG 9
+ordine R1sHSjaN7409HULkW_5iL 16
+ordine R1sHSjaN7409HULkW_5iL 12
+ordine Lwmxfma4Ytxf9WXR 14
+ordine LwmxfmW 22
+rimuovi_ricetta Lwmxfma4Ytxf9WXR
+ordine Lwmxfma4Ytxf9WXR 9
+ordine dV66drddTwFQrbifRjPvWK9jpw 11
+aggiungi_ricetta TltfZVeOqZICducF9ztS0B6VKTx TltfZVeOYXG1ANEBFU 4 dV66drdbN9vISaCa17yZZlpY 2 Lwmxfm_3W9W1hnSnHpJc 1 TltfZVeOoTSo1QzI1rZl 1 t7D7FECZyk35kafGV7uTUZMHgux 3 LwmxfmrCTXIgVUyPbsjx2 2
+rimuovi_ricetta R1sHSjaN751UVLvuE
+ordine Lwmxfma4Ytxf9WXR 14
+ordine Lwmxfma4Ytxf9WXR 28
+ordine LwmxfmzysVxSEQ9Mx5Yo1P 1
+rifornimento LwmxfmrCTXIgVUyPbsjx2 112 259 TltfZVeOU0LaOj1NjJ5V7qY3qUW 23 265 LwmxfmXXwlxKYvu8EYD 148 226
+ordine R1sHSjaN7409HULkW_5iL 5
+rifornimento TltfZVeOdPfd 817 236 TltfZVeOU0LaOj1NjJ5V7qY3qUW 1879 255 LwmxfmrCTXIgVUyPbsjx2 486 251
+ordine R1sHSjaN7409HULkW_5iL 3
+ordine dV66drdPk 12
+ordine dV66drddTwFQrbifRjPvWK9jpw 1
+ordine LwmxfmzysVxSEQ9Mx5Yo1P 4
+ordine Lwmxfma4Ytxf9WXR 7
+rifornimento LwmxfmXXwlxKYvu8EYD 106 266 LwmxfmrCTXIgVUyPbsjx2 221 256 t7D7FECZyk35kafGV7uTUZMHgux 2703 260 Lwmxfm_3W9W1hnSnHpJc 1949 231
+ordine dV66drddTwFQrbifRjPvWK9jpw 13
+ordine Lwmxfma4Ytxf9WXR 8
+ordine Lwmxfma4Ytxf9WXR 7
+ordine R1sHSjaN751UVLvuE 4
+ordine LwmxfmW 12
+rimuovi_ricetta Lwmxfma4Ytxf9WXR
+ordine LwmxfmW 20
+ordine TltfZVeOqZICducF9ztS0B6VKTx 26
+ordine LwmxfmW 7
+ordine LwmxfmzysVxSEQ9Mx5Yo1P 3
+ordine TltfZVeOqZICducF9ztS0B6VKTx 17
+ordine R1sHSjaN78Pda 4
+aggiungi_ricetta TltfZVeOS1BkR TltfZVeOoTSo1QzI1rZl 8 dV66drdbN9vISaCa17yZZlpY 15 TltfZVeOdPfd 17 t7D7FECZyk35kafGV7uTUZMHgux 47 LwmxfmrCTXIgVUyPbsjx2 9
+ordine TltfZVeOS1BkR 2
+ordine LwmxfmzysVxSEQ9Mx5Yo1P 4
+ordine Lwmxfma4Ytxf9WXR 5
+ordine TltfZVeOS1BkR 4
+ordine t7D7FECZyYg5QAL 7
+rifornimento TltfZVeOoTSo1QzI1rZl 84 225 dV66drdbN9vISaCa17yZZlpY 166 268 TltfZVeOdPfd 181 248 t7D7FECZyk35kafGV7uTUZMHgux 547 265 LwmxfmrCTXIgVUyPbsjx2 3502 256 TltfZVeOYXG1ANEBFU 2824 248 LwmxfmXXwlxKYvu8EYD 1438 231
+rimuovi_ricetta Lwmxfma4Ytxf9WXR
+ordine dV66drddTwFQrbifRjPvWK9jpw 2
+ordine R1sHSjaN78Pda 3
+ordine dV66drdVgP5tsc4Dg 7
+aggiungi_ricetta dV66drdoQ LwmxfmrCTXIgVUyPbsjx2 23 TltfZVeOoTSo1QzI1rZl 19 TltfZVeOU0LaOj1NjJ5V7qY3qUW 3 TltfZVeOdPfd 8 TltfZVeOYXG1ANEBFU 17 Lwmxfm5jiGMJOG 12 LwmxfmXXwlxKYvu8EYD 16
+rimuovi_ricetta TltfZVeOS1BkR
+ordine LwmxfmzysVxSEQ9Mx5Yo1P 2
+ordine TltfZVeOqZICducF9ztS0B6VKTx 6
+aggiungi_ricetta t7D7FECZyMsGpDCXD LwmxfmXXwlxKYvu8EYD 3 dV66drdbN9vISaCa17yZZlpY 17 Lwmxfm_3W9W1hnSnHpJc 4 TltfZVeOoTSo1QzI1rZl 12 TltfZVeOYXG1ANEBFU 31 Lwmxfm5jiGMJOG 3 t7D7FECZyk35kafGV7uTUZMHgux 8 LwmxfmrCTXIgVUyPbsjx2 37
+ordine R1sHSjaN78Pda 8
+rimuovi_ricetta dV66drddTwFQrbifRjPvWK9jpw
+ordine Lwmxfma4Ytxf9WXR 5
+rimuovi_ricetta TltfZVeOS1BkR
+ordine dV66drdPk 4
+ordine TltfZVeOqZICducF9ztS0B6VKTx 4
+ordine TltfZVeOF 21
+rifornimento LwmxfmrCTXIgVUyPbsjx2 133 246 TltfZVeOU0LaOj1NjJ5V7qY3qUW 302 255 LwmxfmXXwlxKYvu8EYD 54 237 TltfZVeOYXG1ANEBFU 107 218
+ordine t7D7FECZyMsGpDCXD 8
+ordine LwmxfmW 21
+ordine dV66drddTwFQrbifRjPvWK9jpw 6
+ordine R1sHSjaN78Pda 8
+rifornimento LwmxfmXXwlxKYvu8EYD 2581 266 TltfZVeOU0LaOj1NjJ5V7qY3qUW 616 263 dV66drdbN9vISaCa17yZZlpY 6593 233 TltfZVeOoTSo1QzI1rZl 1123 264 Lwmxfm_3W9W1hnSnHpJc 293 249 TltfZVeOdPfd 943 239 Lwmxfm5jiGMJOG 831 266 t7D7FECZyk35kafGV7uTUZMHgux 1338 262
+ordine LwmxfmW 11
+ordine TltfZVeOqZICducF9ztS0B6VKTx 20
+ordine Lwmxfma4Ytxf9WXR 4
+aggiungi_ricetta TltfZVeOIzClX0ev3pIWHkTe TltfZVeOdPfd 2 t7D7FECZyk35kafGV7uTUZMHgux 37 Lwmxfm5jiGMJOG 7
+aggiungi_ricetta TltfZVeO1vpPAYzoZhaL_lr8 LwmxfmrCTXIgVUyPbsjx2 1 Lwmxfm_3W9W1hnSnHpJc 1 Lwmxfm5jiGMJOG 1 dV66drdbN9vISaCa17yZZlpY 1 TltfZVeOU0LaOj1NjJ5V7qY3qUW 1 LwmxfmXXwlxKYvu8EYD 1 TltfZVeOdPfd 1 t7D7FECZyk35kafGV7uTUZMHgux 1
+ordine LwmxfmzysVxSEQ9Mx5Yo1P 2
+ordine R1sHSjaN7409HULkW_5iL 20
+ordine dV66drdPk 6
+rimuovi_ricetta TltfZVeOF
+ordine TltfZVeOIzClX0ev3pIWHkTe 18
+rifornimento TltfZVeOdPfd 336 262 TltfZVeOU0LaOj1NjJ5V7qY3qUW 773 265 LwmxfmrCTXIgVUyPbsjx2 278 264 TltfZVeOYXG1ANEBFU 524 217 dV66drdbN9vISaCa17yZZlpY 269 268 Lwmxfm_3W9W1hnSnHpJc 129 253 TltfZVeOoTSo1QzI1rZl 128 241 t7D7FECZyk35kafGV7uTUZMHgux 425 256
